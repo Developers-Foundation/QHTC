@@ -9,7 +9,7 @@
 <div class="row">
   <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/Cindy_Nie_PRESIDENT.jpg" class="img-responsive"><div class="info"><h3>Cindy Nie</h3><h4>President</h4></div></div></div>
   <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/Lucy_Li_VPFINANCE.jpg" class="img-responsive"><div class="info"><h3>Lucy Li</h3><h4>VP Finance</h4></div></div></div>
-  <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/Sabrina_Leung_VP_PUBLICRELATIONS.jpg" class="img-responsive"><div class="info"><h3>Sabrina Leung</h3><h4>VP Public Relations</h4></div></div></div>
+  <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/Sabrina_Leung_VP_PUBLIC_RELATIONS.jpg" class="img-responsive"><div class="info"><h3>Sabrina Leung</h3><h4>VP Public Relations</h4></div></div></div>
   <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/Carmen_Louie_IT.jpg" class="img-responsive"><div class="info"><h3>Carmen Louie</h3><h4>IT Coordinator</h4></div></div></div>
   <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/Iris_Zhang_SPONS.jpg" class="img-responsive"><div class="info"><h3>Iris Zhang</h3><h4>Sponsorship Coordinator</h4></div></div></div>
   <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/Hannah_Wei_SPONS.jpg" class="img-responsive"><div class="info"><h3>Hannah Wei</h3><h4>Sponsorship Coordinator</h4></div></div></div>
