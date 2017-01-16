@@ -7,7 +7,7 @@
 <!-- form -->
 
 <div class="row">
-  <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/headshot-placeholder.jpg" class="img-responsive"><div class="info"><h3>Cindy Nie</h3><h4>President</h4><p>Description</p></div></div></div>
+  <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/headshot-placeholder.jpg" class="img-responsive"><div class="info"><h3>Cindy Nie</h3><h4>President</h4></div></div></div>
   <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/headshot-placeholder.jpg" class="img-responsive"><div class="info"><h3>Lucy Li</h3><h4>VP Finance</h4><p> Description</p></div></div></div>
   <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/headshot-placeholder.jpg" class="img-responsive"><div class="info"><h3>Sabrina Leung</h3><h4>VP Public Relations</h4><p> Description</p></div></div></div>
   <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/headshot-placeholder.jpg" class="img-responsive"><div class="info"><h3>Carmen Louie</h3><h4>IT Coordinator</h4><p> Description</p></div></div></div>
@@ -16,7 +16,7 @@
   <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/headshot-placeholder.jpg" class="img-responsive"><div class="info"><h3>Rupinderjit Cheema</h3><h4>Events Coordinator</h4><p> Description</p></div></div></div>
   <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/headshot-placeholder.jpg" class="img-responsive"><div class="info"><h3>Karoline Sarah Wang</h3><h4>Events Coordinator</h4><p> Description</p></div></div></div>
   <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/headshot-placeholder.jpg" class="img-responsive"><div class="info"><h3>Claire Currie</h3><h4>Events Coordinator</h4><p> Description</p></div></div></div>
-  <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/headshot-placeholder.jpg" class="img-responsive"><div class="info"><h3>Andy Tran</h3><h4>Marketing Coordinator</h4><p> Description</p></div></div></div>
+  <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/Andy_Tran_MARKETING.jpg" class="img-responsive"><div class="info"><h3>Andy Tran</h3><h4>Marketing Coordinator</h4><p> Description</p></div></div></div>
   <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/headshot-placeholder.jpg" class="img-responsive"><div class="info"><h3>Yan Wu</h3><h4>Marketing Coordinator</h4><p> Description</p></div></div></div>
   <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/headshot-placeholder.jpg" class="img-responsive"><div class="info"><h3>Irene Cen</h3><h4>Marketing Coordinator</h4><p> Description</p></div></div></div>
   <div class="col-sm-4 wowload fadeInUp"><div class="rooms"><img src="images/photos/headshot-placeholder.jpg" class="img-responsive"><div class="info"><h3>Christopher Zhao</h3><h4>Logistics Coordinator</h4><p> Description</p></div></div></div>
