@@ -53,6 +53,10 @@
 			<br>
 			<p><b>Find Us On Facebook:</b> https://www.facebook.com/QHTClub/</p>
 			<br>
+			<p><b>Twitter:</b>QueensHTC</p>
+			<br>
+			<p><b>Instagram:</b>qhtc_kingston</p>
+			<br>
 			<p><b>Location:</b></p>
 			
 			Goodes Hall, 143 Union Street West, Kingston, ON K7L 2P3

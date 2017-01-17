@@ -13,14 +13,14 @@
                         <li><a href="about.php">About</a></li>        
                         <li><a href="our-team.php">Our Team</a></li>
                         <li><a href="events.php">Events</a></li>
-                        <li><a href="sponsorship.php">Sponsorship</a></li>
+                        <li><a href="sponsorship.php">Sponsorship & Partners</a></li>
                         <li><a href="contact.php">Contact</a></li>
                     </ul>
                 </div>
 
                 <div class="col-sm-9">
                     <h4>Queen's Hospitality and Tourism Club</h4>
-                    <p>Short description here please</p>
+                    <p>“Opening doors to the thriving hospitality & tourism industry.”</p>
                 </div>  
             </div>
             <!--/.row--> 
@@ -71,10 +71,6 @@
 
 <!-- custom script -->
 <script src="assets/script.js"></script>
-
-
-
-
 
 
 

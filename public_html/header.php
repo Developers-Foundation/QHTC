@@ -69,7 +69,7 @@
         <li><a href="about.php">About</a></li>        
         <li><a href="our-team.php">Our Team</a></li>
         <li><a href="events.php">Events</a></li>
-        <li><a href="sponsorship.php">Sponsorship</a></li>
+        <li><a href="sponsorship.php">Sponsorship & Partners</a></li>
         <li><a href="contact.php">Contact</a></li>
       </ul>
     </div><!-- Wnavbar-collapse -->
