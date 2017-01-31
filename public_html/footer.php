@@ -20,7 +20,7 @@
 
                 <div class="col-sm-9">
                     <h4>Queen's Hospitality and Tourism Club</h4>
-                    <p>“Opening doors to the thriving hospitality & tourism industry.”</p>
+                    <p style="font-size:20px;">“Opening doors to the thriving hospitality & tourism industry.”</p>
                 </div>  
             </div>
             <!--/.row--> 
