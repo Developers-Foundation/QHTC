@@ -90,6 +90,10 @@ footer .subscribe .social a{font-size: 1.5em;margin-right: 0.25em;}
 .gallery .gallery-image{margin-bottom: 2em;display: inline-block;}
 .gallery .gallery-image img{width: 100%;}
 
+.about{margin-top:50px;margin-bottom:50px;}
+
+.contact{margin-bottom:100px;}
+
 body::-webkit-scrollbar {
         width: 6px;
     }
