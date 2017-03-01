@@ -61,10 +61,10 @@
     <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
       
       <ul class="nav navbar-nav">        
-        <li><a class="#aboutbutton">About</a></li>        
-        <li><a href="our-team.php">Our Team</a></li>
-        <li><a href="sponsorship.php">Sponsorship & Partners</a></li>
-        <li><a href="contact.php">Contact</a></li>
+        <li><a href="#" class="aboutbutton">About</a></li>        
+        <li><a href="#" class="ourteambutton">Our Team</a></li>
+        <li><a href="#" class="sponsorshipbutton">Sponsorship & Partners</a></li>
+        <li><a href="#" class="contactbutton">Contact</a></li>
       </ul>
     </div><!-- Wnavbar-collapse -->
   </div><!-- container-fluid -->
@@ -90,9 +90,6 @@
 <div class="container about">
 
       <div class="animated fadeInDown" id="whoWeAre">
-      <div class="text-center" style="margin-bottom:20px;">
-      	<img src="images/photos/Group_Picture.jpg">
-      </div>
       <h3 style="font-family:'Droid Serif', serif;"><b>Who We Are</b></h3>
       <p>
       The Queen’s Hospitality and Tourism Club (QHTC) provides opportunities for Queen’s students to explore the thriving hospitality and tourism industry. We provide students with deeper insights into the industry at both the local Canadian level and international level.
@@ -104,6 +101,10 @@
       QHTC welcomes students from diverse academic backgrounds and we strive to create a welcoming community amongst students. We’re always looking forward to meeting new faces from all faculties!
       </b></p>
       <br>
+      </div>
+
+      <div class="text-center" style="margin-bottom:20px;">
+      	<img src="images/photos/Group_Picture.jpg">
       </div>
 
       <div class="animated fadeInDown" id="mandate">
@@ -206,12 +207,10 @@
                 <div class="col-sm-3">
                     <h4>Quick Links</h4>
                     <ul class="list-unstyled">
-                        <li><a href="index.php">Home</a></li>
-                        <li><a href="about.php">About</a></li>        
-                        <li><a href="our-team.php">Our Team</a></li>
-                        <li><a href="events.php">Events</a></li>
-                        <li><a href="sponsorship.php">Sponsorship & Partners</a></li>
-                        <li><a href="contact.php">Contact</a></li>
+                        <li><a href="#" class="aboutbutton">About</a></li>        
+        				<li><a href="#" class="ourteambutton">Our Team</a></li>
+        				<li><a href="#" class="sponsorshipbutton">Sponsorship & Partners</a></li>
+        				<li><a href="#" class="contactbutton">Contact</a></li>
                     </ul>
                 </div>
 
@@ -267,27 +266,27 @@
 <script src="assets/script.js"></script>
 
 <script>
-$("#aboutbutton").click(function() {
-    $('html, body').animate({
+$(".aboutbutton").click(function() {
+    $('html, body').stop().animate({
         scrollTop: $(".about").offset().top
     }, 2000);
 });
 
-$("#button").click(function() {
-    $('html, body').animate({
-        scrollTop: $("#elementtoScrollToID").offset().top
+$(".ourteambutton").click(function() {
+    $('html, body').stop().animate({
+        scrollTop: $(".team").offset().top
     }, 2000);
 });
 
-$("#button").click(function() {
-    $('html, body').animate({
-        scrollTop: $("#elementtoScrollToID").offset().top
+$(".sponsorshipbutton").click(function() {
+    $('html, body').stop().animate({
+        scrollTop: $(".sponsorship").offset().top
     }, 2000);
 });
 
-$("#button").click(function() {
-    $('html, body').animate({
-        scrollTop: $("#elementtoScrollToID").offset().top
+$(".contactbutton").click(function() {
+    $('html, body').stop().animate({
+        scrollTop: $(".contact").offset().top
     }, 2000);
 });
 
